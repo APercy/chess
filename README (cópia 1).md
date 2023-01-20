@@ -1,2 +1,0 @@
-# chess
-minetest chess pieces
